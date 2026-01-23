@@ -1,5 +1,5 @@
 package com.example.practice;
 
 public class abc {
-merge
+4
 }
